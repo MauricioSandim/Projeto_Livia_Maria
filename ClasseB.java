@@ -3,7 +3,6 @@ public class ClasseB {
     private int B1;
     private float B2;
 
-
     public int getB1() {
         return B1;
     }
@@ -11,7 +10,6 @@ public class ClasseB {
         B1 = b1;
     }
 
-    
     public float getB2() {
         return B2;
     }
